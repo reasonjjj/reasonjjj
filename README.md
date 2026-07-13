@@ -17,4 +17,6 @@
 #### 💻 프로젝트 & 공모전
 - 2026 LG Aimers 9th
 
-<img width="1085" height="550" alt="image" src="https://github.com/user-attachments/assets/9e4c44cf-af9c-45ee-9500-98e467aa501a" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/reasonjjj"/>
+</a>
