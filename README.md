@@ -1,16 +1,13 @@
-## Hi there 👋
+## 안녕하세요! AI/DS 분야에 관심이 많습니다. 👋
 
-<!--
-**reasonjjj/reasonjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 기술 스택
+- C, Python, SQL
 
-Here are some ideas to get you started:
+## 📖 대외활동
+- 2025 ~ 2026 입학전형알리미 Dreamer 14th
+- 2026 HI SW 봉사단 12th
+- 2026 BDAI 학회 12th
+- 2026 현대오토에버 스마트모빌리티 공학체험교육 대학생 멘토단 9th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 프로젝트
+- 2026 LG Aimers 9th
